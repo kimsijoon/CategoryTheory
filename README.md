@@ -1,8 +1,6 @@
----
-description: 프로그래머를 위한 범주론 (Category Theory for Programmers)
----
-
 # 프로그래머를 위한 범주론
+
+## 프로그래머를 위한 범주론 \(Category Theory for Programmers\)
 
 ### 이 문서에 대하여
 
