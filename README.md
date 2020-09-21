@@ -30,7 +30,7 @@
   * 요네다 보조정리
   * 요네다 임베
 * 3장
-  * 이게 모두 사상인 것입니다
+  * 결국 중요한 것은 사상입니다
   * 수반
   * 자유-망각 수반
   * 프로그래머가 바라보는 모나드
@@ -51,8 +51,4 @@
 ![](.gitbook/assets/ccbysa.png) 
 
 이 문서는 Creative Commons Attribution-ShareAlike 4.0 International License \([cc by-sa](http://creativecommons.org/licenses/by-sa/4.0/)\) 라이선스 하에 있습니다. 문서의 출처는 [이 곳](https://github.com/hmemcpy/milewski-ctfp-pdf/)입니다.
-
-
-
-
 
