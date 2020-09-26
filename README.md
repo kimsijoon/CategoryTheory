@@ -8,6 +8,8 @@
 
 {% file src=".gitbook/assets/category-theory-for-programmers.pdf" %}
 
+이 문서는 [GitBook](https://kimsijoon28.gitbook.io/category-theory-for-programmers/)에서 보실 수 있습니다. 
+
 ### 목차
 
 * [서론](undefined/undefined.md)
@@ -44,7 +46,7 @@
   * 풍성한 범주
   * 토포스
   * 로비어 이론
-  * 모나드, 모노이드, 범
+  * 모나드, 모노이드, 범주
 
 ### 라이선스
 
