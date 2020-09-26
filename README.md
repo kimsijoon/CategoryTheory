@@ -4,7 +4,7 @@
 
 ### 이 문서에 대하여
 
-\*\*\*\*[**프로그래머를 위한 범주론**](https://kimsijoon28.gitbook.io/category-theory-for-programmers/)은 바르토 밀레프스키\(Bartosz Milewski\)의 _Category Theory for Programmers_ 를 한국어로 번역한 것입니다. 이 책의 pdf파일은 아래에서 확인할 수 있습니다. 아래 pdf 파일전은 2019년 8월에 배포된 v1.3.0 버전며, 모든 번역 내용은 이 버전을 기준으로 삼았습니다.
+\*\*\*\*[**프로그래머를 위한 범주론**](https://kimsijoon28.gitbook.io/category-theory-for-programmers/)은 바르토시 밀레프스키\(Bartosz Milewski\)의 책, _Category Theory for Programmers_ 를 한국어로 번역한 것입니다. 이 책의 pdf파일은 아래에서 확인할 수 있습니다. 아래 pdf 파일전은 2019년 8월에 배포된 v1.3.0 버전며, 모든 번역 내용은 이 버전을 기준으로 삼았습니다.
 
 {% file src=".gitbook/assets/category-theory-for-programmers.pdf" %}
 
@@ -12,7 +12,7 @@
 
 * [서론](undefined/undefined.md)
 * 1장
-  * [합성의 정수, 범주](1/1..md)
+  * [합성의 핵심, 범주](1/1..md)
   * 형과 함수
   * 다양한 범주들
   * 클라이슬리 범주
